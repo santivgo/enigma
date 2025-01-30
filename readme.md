@@ -37,8 +37,7 @@ manipular posts, usuários, exames, aulas. É possível publicar cursos, aulas d
 ---
 
 ## 📸 **Capturas de Tela**
-
-| Tela 1 | Tela 2 | Tela 3 | |--------|--------|--------| | ![Tela 1](images/tela1.png) | ![Tela 2](images/tela2.png) | ![Tela 3](images/tela3.png) | ![Tela 3](images/tela4.png)
+ ![Tela 1](images/tela1.png) | ![Tela 2](images/tela2.png) | ![Tela 3](images/tela3.png) | ![Tela 3](images/tela4.png)
 ---
 
 ## 🛠️ **Tecnologias Utilizadas**
