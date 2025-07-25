@@ -42,7 +42,7 @@ manipular posts, usuários, exames, aulas. É possível publicar cursos, aulas d
 
 ## 🛠️ **Tecnologias Utilizadas**
 
-- **Java**: Para o back-end.
+- **JDBC**: Framework para lidar com bancos de dados em Java
 - **JavaFX**: Framework para o front-end em Java
 - **MySQL**: Sistema de Gerenciamento de Banco de Dados 
 
